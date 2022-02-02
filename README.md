@@ -1,4 +1,4 @@
-# Forza-Horizon-Tuning-Calculator
+# Forza Horizon Tuning Calculator
 Tuning calculator designed to help you set up a base tune on your car in Forza Horizon 4.
 
 The formula used for this program is from a [YT video by HokiHoshi](https://youtu.be/WM7_3NGGUoQ).
